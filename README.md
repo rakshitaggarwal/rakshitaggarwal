@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit Aggarwal</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" width=400 alt="coding" src"https://i.pinimg.com/736x/f9/55/f3/f955f32968656151d85142aabd93afa9.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitaggarwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshitaggarwal" alt="rakshitaggarwal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

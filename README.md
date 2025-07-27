@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **C,C++,Python,EDA**
+
 
 - 📫 How to reach me **rakshitaggarwal1@gmail.com**
 
